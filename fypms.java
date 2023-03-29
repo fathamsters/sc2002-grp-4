@@ -5,12 +5,14 @@ import java.util.Scanner;
     public class fypms{
         public static void main (String[] args){
             int choice;
-            ID userID;
-            PW userPassword;
-    
+            String userID;
+            String userPassword = password;
+            
+            System.out.println("Enter your ID: ");
+           
             Scanner sc = new Scanner(System.in);
             
-            do{
+            while(userPassword = password){
                 System.out.println("(1) 
         }
     }
