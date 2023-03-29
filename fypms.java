@@ -1,7 +1,17 @@
-public package assignment_2002{
+package assignment_2002;
+
+import java.util.Scanner;
+
     public class fypms{
         public static void main (String[] args){
-            System.out.println("Hello world!");
+            int choice;
+            ID userID;
+            PW userPassword;
+    
+            Scanner sc = new Scanner(System.in);
+            
+            do{
+                System.out.println("(1) 
         }
     }
-}
+
